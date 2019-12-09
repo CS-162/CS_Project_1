@@ -1,0 +1,10 @@
+3
+Dracula vampire 66 2 
+Drink_Blood 80 water
+Transform_Bat 60 air
+Smaug dragon 82 3
+Breathe_Fire 55 fire
+Steal_Gold 34 earth
+Bite 77 earth
+Pikachu mouse 5 1
+Thunderbolt 48 air

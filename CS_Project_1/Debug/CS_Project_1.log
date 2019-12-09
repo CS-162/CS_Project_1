@@ -1,0 +1,19 @@
+﻿  hunter.cpp
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2238: unexpected token(s) preceding ';'
+  main.cpp
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2238: unexpected token(s) preceding ';'
+  monster.cpp
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2143: syntax error: missing ';' before '*'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(15): error C2238: unexpected token(s) preceding ';'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.cpp(23): error C2039: 'attacks': is not a member of 'monster'
+  c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(8): note: see declaration of 'monster'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.cpp(24): error C2039: 'attacks': is not a member of 'monster'
+  c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(8): note: see declaration of 'monster'
+c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.cpp(61): error C2039: 'attacks': is not a member of 'monster'
+  c:\users\austi\onedrive\desktop\labs\cs_project_1\cs_project_1\monster.h(8): note: see declaration of 'monster'
+  Generating Code...
